@@ -35,7 +35,7 @@ print(f"skaitlis noapalots lidz diviem cipariem aiz komata:{round(number, 2)}")
 #round noapalo lidz skaitlim kas ir atzimets aiz komata
 #septitais uzd
 
-integer = ont(input("ievadi veselu skaitli: "))
+integer = int(input("ievadi veselu skaitli: "))
 print(f"skaitlis ka decimaldala: {float(integer)}")
 
 # astotais uzd
